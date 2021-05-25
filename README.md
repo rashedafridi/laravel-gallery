@@ -28,4 +28,4 @@
 
 ## demo
 
-![demo](demo.gif?raw=true "demo")
+![demo](demo/demo.gif?raw=true "demo")
